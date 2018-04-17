@@ -1,5 +1,6 @@
 .git
 .metadata
+.recommenders
 target
 RemoteSystemsTempFiles
 Servers
